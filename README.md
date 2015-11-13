@@ -1,1 +1,1 @@
-# touhou
+# Touhou (C++ Allegro game)
